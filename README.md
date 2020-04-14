@@ -15,7 +15,7 @@ il est indispensable de pouvoir `lire une “ligne”` terminée par un retour �
 * Manipulation et cycle de vie d’un buffer.
 * Gestion des fuites mémoires.
 
-![alt text](https://github.com/mayer-overflow/get_next_line/blob/master/no_memory_leak.png "Pas de leak mémoire en sortie.")
+![alt text](https://i.imgur.com/DuNEBIi.jpg "Pas de leak mémoire en sortie.")
 #
 
 > Un appel en boucle à la fonction get_next_line permettra donc de lire le
