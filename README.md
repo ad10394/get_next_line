@@ -21,3 +21,6 @@ il est indispensable de pouvoir `lire une “ligne”` terminée par un retour �
 > Un appel en boucle à la fonction get_next_line permettra donc de lire le
 texte sur un descripteur de fichier, une ligne à la fois jusqu’à la fin du
 texte, **`quelque soit la taille du texte en question`** ou d’une de ses lignes.
+
+
+
