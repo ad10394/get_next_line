@@ -6,7 +6,8 @@
 > * Comment gérer la lecture d'un texte excessivement long comme la bible ? ou mieux encore 
 > d'un fichier potentiellement sans fin comme /dev/random ?
   
-<br/><br/>
+<br/>
+
 En programmation, qu'il s'agisse d'un **fichier**, ou des commandes que vous tapez dans votre shell **(stdin)**
 il est indispensable de pouvoir `lire une “ligne”` terminée par un retour à la ligne, `depuis un file descriptor.`
 **Get_next_line** est une fonction, qui répond *(une bonne fois pour toute)* à ce besoin.
