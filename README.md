@@ -22,6 +22,7 @@ il est indispensable de pouvoir `lire une “ligne”` terminée par un retour �
 > Un appel **`en boucle`** à cette fonction permettra donc de lire, le texte sur un descripteur de fichier,  
 > une ligne à la fois, jusqu’à la fin du texte.
 > **`Quelque soit la taille du texte en question, ou d’une de ses lignes.`**  
+> (oui même la bible ou un fichier potentiellement sans fin comme /dev/random)
 > Le tout sans aucunes fuites mémoires.
 
 ## Concrètement ?
