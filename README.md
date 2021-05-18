@@ -26,7 +26,7 @@ il est indispensable de pouvoir `lire une “ligne”` terminée par un retour �
 
 ## Concrètement ?
 Ça marche. Même si un utilisateur venais à envoyer un texte excessivement long à notre fonction,  
-comme par exemple `la Bible`
+comme par exemple `la Bible`  
 ou mieux encore, `un fichier potentiellement sans fin` comme `/dev/random` 
 
 
