@@ -8,7 +8,7 @@
 #
 <br/>
 
-En programmation, qu'il s'agisse d'un **fichier**, ou des commandes que vous tapez dans votre shell **(stdin)**
+En programmation, qu'il s'agisse d'un **fichier**, ou des commandes que vous tapez dans l'entrée standard **(stdin)**
 il est indispensable de pouvoir `lire une “ligne”` terminée par un retour à la ligne, `depuis un file descriptor.`
 **Get_next_line** est une fonction, qui répond *(une bonne fois pour toute)* à ce besoin.
 
