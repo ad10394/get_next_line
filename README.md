@@ -12,8 +12,9 @@ il est indispensable de pouvoir `lire une “ligne”` terminée par un retour �
 ## Skills :
 * Variables statiques en C.
 * Allocations mémoires sur la `Heap` et la `Stack`.
+* * **`Gestion des fuites mémoires.`**
 * Manipulation et cycle de vie d’un buffer.
-* **`Gestion des fuites mémoires.`**
+
 
 ![alt text](https://github.com/mayer-overflow/get_next_line/blob/master/no_memory_leak.png "Pas de leak mémoire en sortie.")
 #
