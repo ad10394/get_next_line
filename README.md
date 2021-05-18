@@ -12,7 +12,7 @@ il est indispensable de pouvoir `lire une “ligne”` terminée par un retour �
 ## Skills :
 * Variables statiques en C.
 * Allocations mémoires sur la `Heap` et la `Stack`.
-* * **`Gestion des fuites mémoires.`**
+* **`Gestion des fuites mémoires.`**
 * Manipulation et cycle de vie d’un buffer.
 
 
