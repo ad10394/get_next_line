@@ -3,7 +3,8 @@
 > Quand on veux lire des données depuis un fd et qu'on ne connait pas (à l'avance) la taille de ces données, c'est compliqué. 
 > * Quelle taille de buffer choisir ? 
 > * Combien de fois lire sur le file descriptor pour retrouver la donnée ?  
-
+> * Comment gérer la lecture d'un texte excessivement long comme la bible ? ou mieux encore 
+> d'un fichier potentiellement sans fin comme /dev/random ?
 #
 
 
