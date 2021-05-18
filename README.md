@@ -22,7 +22,7 @@ il est indispensable de pouvoir `lire une “ligne”` terminée par un retour �
 > Un appel **`en boucle`** à cette fonction permettra donc de lire, le texte sur un descripteur de fichier,  
 > une ligne à la fois, jusqu’à la fin du texte.
 > **`Quelque soit la taille du texte en question, ou d’une de ses lignes.`**  
-> Le tout sans aucune fuite mémoire.
+> Le tout sans aucune fuites mémoires.
 
 ## L'interet ? 
 Que ça marche, même si un utilisateur venais à envoyer un texte excessivement long à notre fonction, comme par exemple `la Bible`
