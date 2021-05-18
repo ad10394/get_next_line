@@ -23,11 +23,10 @@ il est indispensable de pouvoir `lire une “ligne”` terminée par un retour �
 > une ligne à la fois, jusqu’à la fin du texte.
 > **`Quelque soit la taille du texte en question, ou d’une de ses lignes.`**
 
-
-Chose qui s'avère pratique dans le cas où un utilisateur tenterais d'envoyer un `texte excessivement` long à notre fonction, comme par exemple `la Bible`  
-ou mieux encore, `un fichier potentiellement sans fin` 
-exemple: `/dev/random` (le générateur de nombres aléatoires du kernel Linux)
-
+## l'Interet ?
+Dans le cas où un utilisateur tenterais d'envoyer un texte `excessivement long` à notre fonction, comme par exemple `la Bible`  
+ou mieux encore, `un fichier` potentiellement `sans fin` exemple: `/dev/random` (le générateur de nombres aléatoires du kernel Linux)
+Notre fonction ne bronchera pas. 
 
 
 
