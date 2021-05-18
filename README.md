@@ -4,7 +4,7 @@
 > Quelle taille de buffer choisir ? Combien de fois lire sur le file descriptor pour retrouver la donnée ?  
 > 
 > Que faire si l'utilisateur tente de lire un texte excessivement long comme la bible ou mieux encore 
-> `un fichier potentiellement sans fin` comme `/dev/random` 
+> un fichier potentiellement sans fin comme /dev/random 
 
 En programmation, qu'il s'agisse d'un **fichier**, ou des commandes que vous tapez dans votre shell **(stdin)**
 il est indispensable de pouvoir `lire une “ligne”` terminée par un retour à la ligne, `depuis un file descriptor.`
