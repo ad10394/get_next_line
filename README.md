@@ -5,7 +5,6 @@
 > 
 > Comment gérer la lecture d'un texte excessivement long comme la bible ? ou mieux encore 
 > d'un fichier potentiellement sans fin comme /dev/random ?
-
 #
 
 En programmation, qu'il s'agisse d'un **fichier**, ou des commandes que vous tapez dans votre shell **(stdin)**
