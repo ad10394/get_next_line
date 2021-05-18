@@ -25,7 +25,7 @@ il est indispensable de pouvoir `lire une “ligne”` terminée par un retour �
 > Le tout sans aucunes fuites mémoires.
 
 ## Concrètement ?
-Notre fonction sera capable de tout lire, même dans le cas où un utilisateur venais à lui envoyer un texte excessivement long,
+Notre fonction est capable de tout lire, même dans le cas où un utilisateur venais à lui envoyer un texte excessivement long,
 comme par exemple `la Bible`  
 ou mieux encore, `un fichier potentiellement sans fin` comme `/dev/random` 
 
