@@ -24,12 +24,7 @@ il est indispensable de pouvoir `lire une “ligne”` terminée par un retour �
 > **`Quelque soit la taille du texte en question, ou d’une de ses lignes.`**  
 > Le tout sans aucunes fuites mémoires.
 
-> Même la bible ou un fichier potentiellement sans fin comme `/dev/random`.  
-
-
-
-
-
+## Problématique implicite ? 
 > Notre fonction est capable de tout lire, même dans le cas où un utilisateur venais à lui envoyer un **texte excessivement long**,
 comme par exemple `la Bible`  
 ou mieux encore, `un fichier potentiellement sans fin` comme `/dev/random` 
