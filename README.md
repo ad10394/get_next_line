@@ -22,10 +22,12 @@ il est indispensable de pouvoir `lire une “ligne”` terminée par un retour �
 > Un appel **`en boucle`** à cette fonction permettra donc de lire, le texte sur un descripteur de fichier,  
 > une ligne à la fois, jusqu’à la fin du texte.
 > **`Quelque soit la taille du texte en question, ou d’une de ses lignes.`**
->
-> ce qui s'avère utile dans le cas ou un utilisateur tenterais d'envoyer un texte excessivement long comme par exemple la Bible
-> ou mieux encore, un fichier potentiellement sans fin 
-> exemple: /dev/random (le générateur de nombres aléatoires du kernel Linux)
+
+
+Chose qui s'avère pratique dans le cas ou un utilisateur tenterais d'envoyer un texte excessivement long à notre fonction  
+comme par exemple la Bible  
+ou mieux encore, un fichier potentiellement sans fin  
+exemple: /dev/random (le générateur de nombres aléatoires du kernel Linux)
 
 
 
