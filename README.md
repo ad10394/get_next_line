@@ -17,7 +17,6 @@ il est indispensable de pouvoir `lire une “ligne”` terminée par un retour �
 
 
 ![alt text](https://github.com/mayer-overflow/get_next_line/blob/master/no_memory_leak.png "Pas de leak mémoire en sortie.")
-#
 
 ## l'Interet ?
 > Un appel **`en boucle`** à cette fonction permettra donc de lire, le texte sur un descripteur de fichier,  
