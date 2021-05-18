@@ -24,7 +24,7 @@ il est indispensable de pouvoir `lire une “ligne”` terminée par un retour �
 > **`Quelque soit la taille du texte en question, ou d’une de ses lignes.`**  
 > Le tout sans aucunes fuites mémoires.
 
-## concrètement
+## Concrètement ?
 Ça marche. Même si un utilisateur venais à envoyer un texte excessivement long à notre fonction, comme par exemple `la Bible`
 ou mieux encore, `un fichier potentiellement sans fin` comme `/dev/random` 
 
